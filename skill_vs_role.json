@@ -1,0 +1,14 @@
+{
+  "python": {
+    "data analyst": 10,
+    "software engineer": 12
+  },
+  "excel": {
+    "data analyst": 8,
+    "software engineer": 3
+  },
+  "sql": {
+    "data analyst": 7,
+    "software engineer": 5
+  }
+}

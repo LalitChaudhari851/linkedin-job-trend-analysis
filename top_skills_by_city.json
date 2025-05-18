@@ -1,0 +1,17 @@
+[
+  {
+    "skills": "python",
+    "count": 12,
+    "city": "Pune"
+  },
+  {
+    "skills": "excel",
+    "count": 9,
+    "city": "Mumbai"
+  },
+  {
+    "skills": "sql",
+    "count": 8,
+    "city": "Pune"
+  }
+]
